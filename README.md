@@ -26,9 +26,9 @@ Users should be able to:
 
 ### Final Screenshot
 
-![](./s-desktop.jpg)
+![](./screenshots/s-desktop.jpg)
 
-![](./s-mobile.jpg)
+![](./screenshots/s-mobile.jpg)
 
 
 ### Links
